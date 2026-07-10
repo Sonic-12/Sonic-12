@@ -11,8 +11,3 @@ Hi there! 👋<br><br>I'm a Computer Science student passionate about **Cyber Se
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://komarev.com/ghpvc/?username=Sonic-12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
