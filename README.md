@@ -24,8 +24,7 @@
 
 ## 💫 About Me
 
-Hi there! I'm a Computer Science student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**. I like building real, working tools rather than tutorial clones — things like runtime API security scanners and AI-driven applications. I enjoy learning new technologies and applying them to solve real-world problems. My goal is to contribute to open-source projects and collaborate with like-minded developers.
-
+Hi! I’m a Computer Science student with a strong interest in Cybersecurity, Artificial Intelligence, and Software Development. I enjoy understanding how systems work, exploring emerging technologies, and building practical solutions to real-world problems. I’m particularly interested in security engineering, intelligent applications, automation, flowchart and scalable software systems.
 ```yaml
 role: "CSE Student @ ITER SOA"
 currently_building: "Security tools, AI-driven apps, and automation"
@@ -109,7 +108,7 @@ fun_fact: "My best ideas usually show up when everyone else is asleep."
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonic-12&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
+<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/activity-graph.svg" width="97%"/>
 </div>
 
 <br/>
