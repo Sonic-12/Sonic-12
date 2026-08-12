@@ -1,4 +1,5 @@
 import math
+import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -53,6 +54,8 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 235" width="2
 <text x="100" y="205" text-anchor="middle" fill="#c0caf5" font-family="monospace" font-size="13">{time_str} IST</text>
 <text x="100" y="222" text-anchor="middle" fill="#7aa2f7" font-family="monospace" font-size="11">{date_str}</text>
 </svg>'''
+
+os.makedirs("dist", exist_ok=True)
 
 with open("dist/clock.svg", "w") as f:
     f.write(svg)
