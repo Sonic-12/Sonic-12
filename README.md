@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=26A5E4&center=true&vCenter=true&width=600&lines=CSE+Student+%40+ITER+SOA;Building+in+Cybersecurity+%26+AI;Turning+raw+data+into+clear+insight;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-<a href="https://github.com/Sonic-12" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=Sonic-12&style=for-the-badge&color=26a5e4&label=PROFILE+VIEWS" />
 
 </div>
