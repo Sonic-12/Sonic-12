@@ -14,28 +14,54 @@
 
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/clock.svg" width="150"/>
-</div>
-
-<br/>
 
 ## 💫 About Me
+Computer Science student focused on **Cybersecurity, Artificial Intelligence, and Software Engineering**. I enjoy understanding how systems work, exploring emerging technologies, and building practical solutions to real-world problems.
 
-Hi! I’m a Computer Science student with a strong interest in Cybersecurity, Artificial Intelligence, and Software Development. I enjoy understanding how systems work, exploring emerging technologies, and building practical solutions to real-world problems. I’m particularly interested in security engineering, intelligent applications, automation, flowchart and scalable software systems.
-```yaml
-role: "CSE Student @ ITER SOA"
-currently_building: "Security tools, AI-driven apps, and automation"
-currently_learning: ["Java", "Python", "Cybersecurity", "AI/ML", "SQL", "Linux", "Networking", "DSA"]
-looking_to_collaborate_on: "Open-source security tools, AI applications, automation"
-looking_for_help_with: "Cloud tech, system design, scalable software"
-ask_me_about: ["Cybersecurity", "AI", "Software Engineering", "Networking", "Open Source"]
-fun_fact: "My best ideas usually show up when everyone else is asleep."
-```
+### Current Focus
 
-<br/>
+* Security tools and cybersecurity applications
+* AI-driven applications and automation
+* Software engineering and system development
+
+### Currently Learning
+
+`Java` · `Python` · `Cybersecurity` · `AI/ML` · `SQL` · `Linux` · `Networking` · `DSA`
+
+### Open to Collaborate On
+
+Open-source security tools, AI applications, automation projects, and software engineering initiatives.
+
+### Exploring
+
+`Cloud Computing` · `System Design` · `Scalable Software Architecture`
+
+### Areas of Interest
+
+`Cybersecurity` · `Artificial Intelligence` · `Software Engineering` · `Networking` · `Open Source`
+
+### Technical Approach
+
+* Focus on clean architecture and maintainable code
+* Prioritize practical problem-solving and real-world applications
+* Build and experiment with real systems beyond tutorial-based projects
+* Understand the fundamentals behind the technologies I use
+
+### What Drives Me
+
+* Curiosity and continuous learning
+* Solving complex technical problems
+* Turning ideas into simple, reliable solutions
+* Exploring new technologies and engineering approaches
+
+### Development Philosophy
+
+**Learn the fundamentals. Build with purpose. Break things. Understand why. Improve continuously.**
+
+### A Little About Me
+
+> Most of my best ideas show up when everyone else is asleep.
 
 ## 🛠️ Tech Stack
 
@@ -96,37 +122,34 @@ fun_fact: "My best ideas usually show up when everyone else is asleep."
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sonic-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic-12&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Sonic-12&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Sonic-12&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="49%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Sonic-12&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sonic-12&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=Sonic-12&theme=blue_navy&hide_border=true" width="48%" />
+
+
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/activity-graph.svg" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonic-12&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
 </div>
 
-<br/>
 
-## 🐍 Snake Game
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/snake-game-dark.svg" width="97%"/>
-</div>
-
-<br/>
 
 ## 🎧 Currently Listening
 
 <div align="center">
-<img src="https://img.shields.io/badge/Now%20Playing-Sunflower%20·%20Post%20Malone%2C%20Swae%20Lee-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</div>
 
+  <a href="https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Sunflower%20·%20Post%20Malone%2C%20Swae%20Lee-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+
+</div>
 <br/>
 
 ## 🗨️ Random Dev Quote
