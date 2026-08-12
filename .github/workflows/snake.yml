@@ -2,7 +2,7 @@ name: Generate Snake + Clock
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* * * * *"   
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -13,19 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Sonic-12
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.svg
-
-      - run: sudo chown -R $USER:$USER dist
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
+      - run: python .github/scripts/generate_snake.py
       - run: python .github/scripts/generate_clock.py
 
       - uses: crazy-max/ghaction-github-pages@v4

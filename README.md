@@ -24,7 +24,7 @@
 
 ## 💫 About Me
 
-Hi there! I'm a Computer Science student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**. I like building real, working tools rather than tutorial clones — things like runtime API security scanners and ATS resume analyzers — and I'm always trying to strengthen my fundamentals along the way.
+Hi there! I'm a Computer Science student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**. I like building real, working tools rather than tutorial clones — things like runtime API security scanners and AI-driven applications. I enjoy learning new technologies and applying them to solve real-world problems. My goal is to contribute to open-source projects and collaborate with like-minded developers.
 
 ```yaml
 role: "CSE Student @ ITER SOA"
@@ -114,10 +114,10 @@ fun_fact: "My best ideas usually show up when everyone else is asleep."
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 Snake Game
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/output/snake-game-dark.svg" width="97%"/>
 </div>
 
 <br/>
