@@ -25,7 +25,7 @@ Computer Science student focused on **Cybersecurity, Artificial Intelligence, an
 
 ### Open to Collaborate On
 
-Open-source security tools, AI applications, automation projects, and software engineering initiatives.
+Open-source security tools, AI applications, automation projects/AI Driven Task, and software engineering initiatives.
 
 ### Exploring
 
