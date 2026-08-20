@@ -11,7 +11,7 @@
 ## About Me
 Computer Science student focused on **Cybersecurity, Artificial Intelligence, and Software Engineering**. I enjoy understanding how systems work, exploring emerging technologies, and building practical solutions to real-world problems.
 
-<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/main/terminal_computer.svg" width="380" align="right"/>
+<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/main/assets/terminal_computer.svg" width="380" align="right"/>
 
 ### Current Focus
 
