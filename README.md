@@ -4,14 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=26A5E4&center=true&vCenter=true&width=600&lines=CSE+Student+%40+ITER+SOA;Building+in+Cybersecurity+%26+AI;Turning+raw+data+into+clear+insight;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Sonic-12&style=for-the-badge&color=26a5e4&label=PROFILE+VIEWS" />
-
 </div>
 
 
 
-## 💫 About Me
+## About Me
 Computer Science student focused on **Cybersecurity, Artificial Intelligence, and Software Engineering**. I enjoy understanding how systems work, exploring emerging technologies, and building practical solutions to real-world problems.
+
+<img src="https://raw.githubusercontent.com/Sonic-12/Sonic-12/main/assets/terminal_computer.svg" width="380" align="right"/>
 
 ### Current Focus
 
@@ -30,6 +30,8 @@ Open-source security tools, AI applications, automation projects/AI Driven Task,
 ### Exploring
 
 `Cloud Computing` · `System Design` · `Scalable Software Architecture`
+
+<br clear="both"/>
 
 ### Areas of Interest
 
